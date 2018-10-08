@@ -67,7 +67,7 @@ Die Teilnehmenden erlernen anhand von praktischen Beispielen ein HTML-Seite zu e
 
 * Was ist eine Auszeichnungssprache (HTML)?
 * Herkunft und aktuelle Entwicklung von HTML
-* Arbeitsweise bei der Programmierung
+* Arbeitsweise bei der Entwicklung/Programmierung
 * Zusammenspiel HTML (Dokumentestruktur) und CSS (Styling)
 * Definiton von Design, Typografie und Layout in CSS
 * Typografie im 21. Jahrhundert
@@ -79,7 +79,7 @@ Die Teilnehmenden erlernen anhand von praktischen Beispielen ein HTML-Seite zu e
 Einführung
 
 ### Zielgruppe
-Personen die sich Grundlagen von HTML und CSS aneignen möchten und später Gestaltung mittels Webtechnologie realisieren möchten.
+Personen die sich die Grundlagen von HTML und CSS aneignen möchten und später Gestaltung mittels Webtechnologie realisieren möchten.
 
 ### Voraussetzungen
 Grundkenntnisse im Web Design sind von Vorteil, aber nicht zwingend notwendig.
