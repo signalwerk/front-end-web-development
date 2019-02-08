@@ -101,37 +101,35 @@ Kursbestätigung
 
 
 ### Kursziel
-Die Teilnehmenden erlernen anhand von praktischen Beispielen ein HTML-Seite zu erstellen und diese mittels CSS (Styling) zu gestalten. Die vermittelten Grundlagen ermöglichen unabhängig von einem später eingesetzten CMS (Content Management System) die Konzepte einer Webseite vertiefter zu verstehen und für sich nutzbar zu machen. Der HTML-Code wird von Hand geschrieben, doch die erzielten Resulate sollen visuell und typografisch ansprechend ausgeführt werden. Gestalterische Grundkenntnisse sind von Vorteil, jedoch icht zwingend notwendig.
+HTML Starter – Front-End Web Development
+========================================
 
+### Kursziel
+Die Teilnehmenden lernen anhand von praktischen Beispielen ein HTML-Seite zu erstellen und diese mittels CSS (Styling) zu gestalten. Die vermittelten Grundlagen ermöglichen unabhängig von einem später eingesetzten CMS (Content Management System) die Konzepte einer Webseite vertiefter zu verstehen und für sich nutzbar zu machen. Der HTML-Code wird von Hand geschrieben, doch die erzielten Resulate sollen visuell und typografisch ansprechend ausgeführt werden. Gestalterische Grundkenntnisse sind von Vorteil, jedoch nicht zwingend notwendig.
 
 ### Inhalt
-
-* Was ist eine Auszeichnungssprache (HTML)?
-* Herkunft und aktuelle Entwicklung von HTML
-* Arbeitsweise bei der Entwicklung/Programmierung
-* Zusammenspiel HTML (Dokumentestruktur) und CSS (Styling)
-* Definiton von Design, Typografie und Layout in CSS
-* Typografie im 21. Jahrhundert
-* Versionenverwaltung von Code
-* GIT für die Verisonsverwaltung
-
+*   Was ist eine Auszeichnungssprache (HTML)?
+*   Herkunft und aktuelle Entwicklung von HTML
+*   Arbeitsweise bei der Entwicklung/Programmierung
+*   Zusammenspiel HTML (Dokumentenstruktur) und CSS (Styling)
+*   Definition von Design, Typografie und Layout in CSS
+*   Typografie im 21. Jahrhundert
+*   Versionenverwaltung von Code
+*   GIT für die Versionsverwaltung
 
 ### Kursniveau
 Einführung
 
 ### Zielgruppe
-Personen die sich die Grundlagen von HTML und CSS aneignen möchten und später Gestaltung mittels Webtechnologie realisieren möchten.
+Personen, die sich die Grundlagen von HTML und CSS aneignen möchten und später Gestaltung mittels Webtechnologie realisieren möchten.
 
 ### Voraussetzungen
-Grundkenntnisse im Web Design sind von Vorteil, aber nicht zwingend notwendig.
-
-### Arbeitsweise
-Lernvorträge und selbstständiges Arbeiten.
+Grundkenntnisse im Web-Design sind von Vorteil, aber nicht zwingend notwendig.
 
 ### Kursmittel
-* Apple-Computer mit MacOS, Atom (Text-Editor), Browser und Versionsverwaltung.
-Eigene Computer/Laptops können gerne zum Unterricht mitgebracht werden.
-* Kursskript
+*   Apple-Computer mit MacOS, Atom (Text-Editor), Browser und Versionsverwaltung.    
+*   Eigene Laptops können gerne zum Unterricht mitgebracht werden.    
+*   Kursskript
 
 ### Abschluss
 Kursbestätigung
