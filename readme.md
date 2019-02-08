@@ -33,11 +33,52 @@ Es gibt vier verschiedene Module:
 * ES6
 * Webpack & PostCSS
 
-### Front-End Web Development – React.js – HS2019 & HS2020
-* Konzept React.js
-* GatsbyJS
-* GraphQL
-* Öko-System React
+
+
+### Front-End Web Development – React.js – HS2019 
+
+**Dauer:** 8 Abende ✕ 3 Lektionen  
+**Zeit:** Mittwoch, 18:15–20:50  
+
+
+### Kursziel
+Die Teilnehmenden erlernen anhand von praktischen Beispielen wie man mittels React ein modernes Frontend-Framework einsetzen kann. Es wird in die Grundlagen eingeführt und erweiterte Techniken wie GraphQL werden anhand von einem kleinen Blog-Setup gezeigt. Die Teilnehmenden programmieren dabei in JavaScript (JS & JSX) und schreiben in einem Texteditor ihren Code von Hand. Grundkenntnisse in HTML und JavaSript sind notwendig.
+
+### Inhalt
+
+* Was ist ein Frontend-Framework?
+* Grundlagen React 
+* Konzepte und Technologien um Daten im User Interface zu präsentieren. 
+* Create React App nutzen und anpassen.
+* Interaktion in der Website. Transitions & Mutations.
+* Wie nutze ich React.js als Blog (Gatsby)
+* Öko-System rund um React
+
+
+### Kursniveau
+Fortgeschrittene
+
+### Zielgruppe
+Personen die in den Grundlagen von HTML und CSS bereits Erfahrungen gesammelt haben und nun einen Einstieg in React (Frontend-Framework) suchen.
+
+### Voraussetzungen
+Grundkenntnisse im Web Design sind notwendig.
+
+### Arbeitsweise
+Lernvorträge und selbstständiges Arbeiten.
+
+### Kursmittel
+* Apple-Computer mit MacOS, Atom (Text-Editor), Browser und Versionsverwaltung.
+Eigene Computer/Laptops können gerne zum Unterricht mitgebracht werden.
+* Kursskript
+
+### Abschluss
+Kursbestätigung
+
+
+
+
+
 
 
 
