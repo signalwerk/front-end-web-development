@@ -67,7 +67,6 @@ Kursbestätigung
 
 
 
-#### Vorschlag
 ## Front-End Web Development – HTML Starter – FS2019
 
 
