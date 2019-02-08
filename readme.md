@@ -24,6 +24,15 @@ Es gibt vier verschiedene Module:
 **Dauer:** 8 Abende ✕ 3 Lektionen  
 **Zeit:** Mittwoch, 18:15–20:50  
 
+### Termine
+23.10.2019
+30.10.2019
+06.11.2019
+13.11.2019
+20.11.2019
+27.11.2019
+04.12.2019
+11.12.2019
 
 ### Kursziel
 Die Teilnehmenden erlernen anhand von praktischen Beispielen wie man mittels React ein modernes Frontend-Framework einsetzen kann. Es wird in die Grundlagen eingeführt und erweiterte Techniken wie GraphQL werden anhand von einem kleinen Blog-Setup gezeigt. Die Teilnehmenden programmieren dabei in JavaScript (JS & JSX) und schreiben in einem Texteditor ihren Code von Hand. Grundkenntnisse in HTML und JavaSript sind notwendig.
@@ -68,7 +77,7 @@ Kursbestätigung
 
 
 ## Front-End Web Development – HTML Starter – FS2019
-
+((wurde abgesagt))
 
 **Dauer:** 8 Abende ✕ 3 Lektionen  
 **Zeit:** Mittwoch, 18:15–20:50  
