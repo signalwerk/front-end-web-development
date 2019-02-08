@@ -19,7 +19,7 @@ Es gibt vier verschiedene Module:
 * * *
 
 
-### Front-End Web Development – React.js – HS2019 
+### Front-End Web Development – React – HS2019 
 
 **Dauer:** 8 Abende ✕ 3 Lektionen  
 **Zeit:** Mittwoch, 18:15–20:50  
@@ -35,7 +35,7 @@ Die Teilnehmenden erlernen anhand von praktischen Beispielen wie man mittels Rea
 * Konzepte und Technologien um Daten im User Interface zu präsentieren. 
 * Create React App nutzen und anpassen.
 * Interaktion in der Website. Transitions & Mutations.
-* Wie nutze ich React.js als Blog (Gatsby)
+* Wie nutze ich React als Blog (Gatsby)
 * Öko-System rund um React
 
 
