@@ -125,13 +125,24 @@ Kursbestätigung
 
 * * *
 
+
+<details>
+<summary>
+   
 ### Front-End Web Development – Modern Technics – FS2020
+
+</summary>
+
 * Webpack & PostCSS
 * CSS Flexbox
 * CSS Grids
 * Typography & Fonts
 * SVG – JPG – PNG
 * Video
+
+</details>
+
+
 
 * * *
 
