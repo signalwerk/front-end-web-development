@@ -73,7 +73,7 @@ Kursbestätigung
 
 * * *
 
-## Front-End Web Development – HTML Starter – FS2019
+### Front-End Web Development – HTML Starter – FS2019
 ((wurde abgesagt))
 
 <details>
@@ -128,7 +128,7 @@ Kursbestätigung
 
 * * *
 
-## Front-End Web Development – Modern Technics – FS2020
+### Front-End Web Development – Modern Technics – FS2020
 
 <details>
 <summary><strong>Details</strong></summary>
