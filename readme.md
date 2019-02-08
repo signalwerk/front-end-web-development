@@ -73,11 +73,10 @@ Kursbestätigung
 
 * * *
 
-
-
+<details>
+<summary><strong>Front-End Web Development – HTML Starter – FS2019</strong> ((wurde abgesagt))</summary>
 
 ## Front-End Web Development – HTML Starter – FS2019
-((wurde abgesagt))
 
 **Dauer:** 8 Abende ✕ 3 Lektionen  
 **Zeit:** Mittwoch, 18:15–20:50  
@@ -122,17 +121,17 @@ Grundkenntnisse im Web-Design sind von Vorteil, aber nicht zwingend notwendig.
 ### Abschluss
 Kursbestätigung
 
+</details>
+
+
 
 * * *
 
 
 <details>
-<summary>
+<summary><strong>Front-End Web Development – Modern Technics – FS2020</strong></summary>
    
-### Front-End Web Development – Modern Technics – FS2020
-
-</summary>
-
+## Front-End Web Development – Modern Technics – FS2020
 * Webpack & PostCSS
 * CSS Flexbox
 * CSS Grids
@@ -145,9 +144,13 @@ Kursbestätigung
 
 
 * * *
+<details>
+<summary><strong>Front-End Web Development – Scripting – HS2020</strong></summary>
 
 
-### Front-End Web Development – Scripting – S2020
+### Front-End Web Development – Scripting – HS2020
 * JavaScript
 * ES6
 * Webpack & PostCSS
+
+</details>
