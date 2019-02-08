@@ -14,25 +14,9 @@ Um den Unterricht an der SfGZ durchzuführen brauchen wir folgende Installatione
 Es gibt vier verschiedene Module:
 
 
-### Front-End Web Development – HTML Starter – FS2019
-* Markup languages
-* HTML & CSS
-* Version Management & GIT
-* Typography
 
-### Front-End Web Development – Modern Technics – HS2019
-* Webpack & PostCSS
-* CSS Flexbox
-* CSS Grids
-* Typography & Fonts
-* SVG – JPG – PNG
-* Video
 
-### Front-End Web Development – Scripting – FS2020
-* JavaScript
-* ES6
-* Webpack & PostCSS
-
+* * *
 
 
 ### Front-End Web Development – React.js – HS2019 
@@ -78,6 +62,7 @@ Kursbestätigung
 
 
 
+* * *
 
 
 
@@ -98,11 +83,6 @@ Kursbestätigung
 * 27.03.2019
 * 03.04.2019
 * 10.04.2019
-
-
-### Kursziel
-HTML Starter – Front-End Web Development
-========================================
 
 ### Kursziel
 Die Teilnehmenden lernen anhand von praktischen Beispielen ein HTML-Seite zu erstellen und diese mittels CSS (Styling) zu gestalten. Die vermittelten Grundlagen ermöglichen unabhängig von einem später eingesetzten CMS (Content Management System) die Konzepte einer Webseite vertiefter zu verstehen und für sich nutzbar zu machen. Der HTML-Code wird von Hand geschrieben, doch die erzielten Resulate sollen visuell und typografisch ansprechend ausgeführt werden. Gestalterische Grundkenntnisse sind von Vorteil, jedoch nicht zwingend notwendig.
@@ -133,3 +113,22 @@ Grundkenntnisse im Web-Design sind von Vorteil, aber nicht zwingend notwendig.
 
 ### Abschluss
 Kursbestätigung
+
+
+* * *
+
+### Front-End Web Development – Modern Technics – FS2020
+* Webpack & PostCSS
+* CSS Flexbox
+* CSS Grids
+* Typography & Fonts
+* SVG – JPG – PNG
+* Video
+
+* * *
+
+
+### Front-End Web Development – Scripting – S2020
+* JavaScript
+* ES6
+* Webpack & PostCSS
