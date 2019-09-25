@@ -8,25 +8,21 @@ Um den Unterricht an der SfGZ durchzuführen brauchen wir folgende Installatione
 
 ---
 
-# Front-End Web Development
-
-
-
-### Die gute Typografie im Web – FS2020 
+# Die gute Typografie im Web – FS2020 
 
 
 **Dauer:** 8 Abende ✕ 3 Lektionen  
 **Zeit:** Mittwoch, 18:15 – 20:50  
 
 ### Termine
-* 23.10.2019
-* 30.10.2019
-* 06.11.2019
-* 13.11.2019
-* 20.11.2019
-* 27.11.2019
-* 04.12.2019
-* 11.12.2019
+* 9.02.2020
+* 6.02.2020
+* 4.03.2020
+* 1.03.2020
+* 8.03.2020
+* 5.03.2020
+* 1.04.2020
+* 8.04.2020
 
 ### Kursziel
 Die Teilnehmenden erlernen anhand von praktischen Beispielen, wie man im Web eine typografische Gestaltung realisieren kann. Die Lesetypografie, die Details der Schrift und die Zeichensetzung stehen dabei im Zentrum. Es wird gezeigt wie man mittels HTML und CSS den Leser optimal unterstützen kann und wie man auch später in Zusammenarbeit mit einem Programmierer die Form der Schrift und die Komposition der Typogrfie wahren kann. 
@@ -36,11 +32,10 @@ Die Teilnehmenden erlernen anhand von praktischen Beispielen, wie man im Web ein
 * HTML & CSS sind meine Freunde für Typografie
 * Lesbarkeit im Web 
 * Lesetypografie
+* Ligaturen und Sonderzeichen
 * Schriftgrad, Spaltenbreite und Viewport im Dreiklang
 * Schrift und Farbe
-* Schriftenkauf und Schrifttechnologien
-* Ligaturen und Sonderzeichen
-
+* Schrifttechnologie und Schriftenkauf 
 
 ### Kursniveau
 Einführung
