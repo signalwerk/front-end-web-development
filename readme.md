@@ -5,13 +5,61 @@ Um den Unterricht an der SfGZ durchzuführen brauchen wir folgende Installatione
 
 * [Atom text editor](https://atom.io/)
 * [Google Chrome](https://www.google.com/chrome/)
-* [Sourcetree](https://www.sourcetreeapp.com/) → mit eingerichtetem Konto (Details Stefan Huber)
 
 ---
 
 # Front-End Web Development
 
-Es gibt vier verschiedene Module:
+
+
+### Die gute Typografie im Web – FS2020 
+
+
+**Dauer:** 8 Abende ✕ 3 Lektionen  
+**Zeit:** Mittwoch, 18:15 – 20:50  
+
+### Termine
+* 23.10.2019
+* 30.10.2019
+* 06.11.2019
+* 13.11.2019
+* 20.11.2019
+* 27.11.2019
+* 04.12.2019
+* 11.12.2019
+
+### Kursziel
+Die Teilnehmenden erlernen anhand von praktischen Beispielen, wie man im Web eine typografische Gestaltung realisieren kann. Die Lesetypografie, die Details der Schrift und die Zeichensetzung stehen dabei im Zentrum. Es wird gezeigt wie man mittels HTML und CSS den Leser optimal unterstützen kann und wie man auch später in Zusammenarbeit mit einem Programmierer die Form der Schrift und die Komposition der Typogrfie wahren kann. 
+
+### Inhalt
+
+* HTML & CSS sind meine Freunde für Typografie
+* Lesbarkeit im Web 
+* Lesetypografie
+* Schriftgrad, Spaltenbreite und Viewport im Dreiklang
+* Schrift und Farbe
+* Schriftenkauf und Schrifttechnologien
+* Ligaturen und Sonderzeichen
+
+
+### Kursniveau
+Einführung
+
+### Zielgruppe
+Personen, die typografische Strukturen, Gestaltungen und Finessen auch im Web kontrollieren möchten.
+
+### Voraussetzungen
+Grundkenntnisse in Web-Design oder Typgrafie sind von Vorteil, aber nicht zwingend notwendig.
+
+### Kursmittel
+*   Apple-Computer mit MacOS, Atom (Text-Editor) und Browser.    
+*   Eigene Laptops können gerne zum Unterricht mitgebracht werden.    
+*   Kursskript
+
+### Abschluss
+Kursbestätigung
+
+
 
 
 
@@ -131,22 +179,6 @@ Kursbestätigung
 
 
 
-* * *
-
-### Front-End Web Development – Modern Technics – FS2020
-
-<details>
-<summary><strong>Details</strong></summary>
-   
-* Webpack & PostCSS
-* CSS Flexbox
-* CSS Grids
-* Typography & Fonts
-* SVG – JPG – PNG
-* Video
-
-</details>
-
 
 
 * * *
@@ -160,3 +192,21 @@ Kursbestätigung
 * Webpack & PostCSS
 
 </details>
+
+
+* * *
+
+### Front-End Web Development – Modern Technics – ???
+
+<details>
+<summary><strong>Details</strong></summary>
+   
+* Webpack & PostCSS
+* CSS Flexbox
+* CSS Grids
+* Typography & Fonts
+* SVG – JPG – PNG
+* Video
+
+</details>
+
