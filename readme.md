@@ -15,14 +15,14 @@ Um den Unterricht an der SfGZ durchzuführen brauchen wir folgende Installatione
 **Zeit:** Mittwoch, 18:15 – 20:50  
 
 ### Termine
-* 9.02.2020
-* 6.02.2020
-* 4.03.2020
-* 1.03.2020
-* 8.03.2020
-* 5.03.2020
-* 1.04.2020
-* 8.04.2020
+* 19.02.2020
+* 26.02.2020
+* 04.03.2020
+* 11.03.2020
+* 18.03.2020
+* 25.03.2020
+* 01.04.2020
+* 08.04.2020
 
 ### Kursziel
 Die Teilnehmenden erlernen anhand von praktischen Beispielen, wie man im Web eine typografische Gestaltung realisieren kann. Die Lesetypografie, die Details der Schrift und die Zeichensetzung stehen dabei im Zentrum. Es wird gezeigt wie man mittels HTML und CSS den Leser optimal unterstützen kann und wie man auch später in Zusammenarbeit mit einem Programmierer die Form der Schrift und die Komposition der Typogrfie wahren kann. 
