@@ -20,7 +20,11 @@ Es gibt vier verschiedene Module:
 
 
 ### Front-End Web Development – React – HS2019 
+((wurde abgesagt))
 
+<details>
+<summary><strong>Details</strong></summary>
+   
 **Dauer:** 8 Abende ✕ 3 Lektionen  
 **Zeit:** Mittwoch, 18:15–20:50  
 
@@ -69,6 +73,7 @@ Eigene Computer/Laptops können gerne zum Unterricht mitgebracht werden.
 Kursbestätigung
 
 
+</details>
 
 
 * * *
